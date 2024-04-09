@@ -8,7 +8,7 @@ I can quickly grasp new concepts and am willing to learn new things to ensure qu
 
 - I'm currently learning HTML and CSS.
 - I'm looking to contribute as a tech writer!
-- Find me at [LinkedIn.](www.linkedin.com/in/michellepaguada)
+- Find me at LinkedIn at www.linkedin.com/in/michellepaguada. 
 - How I work: lead with curiosity, always willing to learn, and create checklists!
 
 ## Writing Samples: 
