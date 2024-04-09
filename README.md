@@ -13,7 +13,7 @@ I can quickly grasp new concepts and am willing to learn new things to ensure qu
 
 ## Writing Samples: 
 
-- [Sample 1: AI and XR Conference Proposal](https://www.notion.so/Innovation-Symposium-Proposal-2fc6ab79a4714abb9d88380c263d666b?pvs=4)
+- [Sample 1: AI and XR Conference Proposal - Needs Section Only](https://www.notion.so/Innovation-Symposium-Proposal-2fc6ab79a4714abb9d88380c263d666b?pvs=4)
 - [Sample 2: White paper on implementing an operating reserve](https://www.notion.so/FIU-Afterschool-Allstars-Policy-Brief-8bc1f2fdff974c3a8fefeeb07e72e0c2?pvs=4)
 - [Sample 3: Two case studies on strategic interventions a grant-funded program proposes to implement](https://www.notion.so/Talent-Search-85922275dd6f4fc79fdc47be502b8ddf?pvs=4)
 - [Sample 4: How-to guide](https://www.notion.so/How-to-guide-writing-sample-da32e697c6c64ef89f13c57f17c62e13?pvs=4)
