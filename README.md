@@ -1,8 +1,8 @@
 # Hi, I'm Michelle—@mishpag
 
-I have over six years of experience in content writing and creation, technical writing, proposal and grant writing, editing, and developing programs for the public and nonprofit sectors. I have experience writing proposals and documentation in various formats. Some of my most notable proposals are to the National Science Foundation and the US Department of Education Trio Programs.
+I have over six years of experience in content writing and creation, technical writing, proposal and grant writing, editing, and developing programs for the public and nonprofit sectors. 
 
-I can quickly grasp new concepts and am willing to learn new things to ensure quality and detailed work. Currently, I'm looking to transition into a permanent technical writing role.
+My experience as a writer in the public and nonprofit sectors overlaps greatly with technical writing. Many of the documents I've created require explaining the functionality of a program or service in various types of documentation, including user and process documentation. Some of my most notable proposals are to the National Science Foundation and the US Department of Education Trio Programs. Currently, I'm looking to transition into a permanent technical writing role.
 
 ## More about me:
 
