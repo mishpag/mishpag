@@ -1,6 +1,6 @@
 # Hi, I'm Michelle—@mishpag
 
-Data analyst with experience in the public and nonprofit sectors, specializing in educational and community program improvement. Committed to using analytical skills to support data-driven decision-making and improve program effectiveness. My background in program management, higher education administration, and grants development enables me to leverage expertise and deliver actionable insights that drive problem-solving and enhance organizational outcomes.
+Data analyst with experience in the public and nonprofit sectors, specializing in educational and community program improvement. Committed to using analytical skills to support data-driven decision-making and improve program effectiveness. My background in project management, higher education administration, and grants development enables me to leverage expertise and deliver actionable insights that drive problem-solving and enhance organizational outcomes.
 
 Software: Microsoft Excel, Tableau, MySQL, Microsoft PowerPoint.
 
