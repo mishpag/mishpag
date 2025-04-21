@@ -14,4 +14,5 @@ Additional Skills: Project management, policy analysis, stakeholder engagement, 
 
 - LinkedIn: www.linkedin.com/in/michellepaguada. 
 - How I work: lead with curiosity, always willing to learn, and create checklists!
+- Interest in tech policy. 
 
